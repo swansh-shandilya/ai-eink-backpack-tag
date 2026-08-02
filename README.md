@@ -52,4 +52,4 @@ docs/         Photos/diagrams for this README
 
 ## Why I built this
 
-The key idea of integrating embedded WiFi/HTTP with microcontoller to display image on eink display really fascinated me to build this project.This project made me learn about low-level display protocols, bit packing embedded, Wi-Fi/HTTP image processing
+The key idea of integrating embedded WiFi/HTTP with microcontoller to display image on eink display really fascinated me to build this project.This project made me learn about low-level display protocols, bit packing embedded, Wi-Fi/HTTP image processing.
